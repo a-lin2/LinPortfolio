@@ -1,7 +1,7 @@
 
 # Alice Lin
-This is a portfolio for Alice Lin
-Contact Info: 302-290-2443 / alin2@loyola.edu
+This is a portfolio for Alice Lin. <br>
+**Contact Info**: 302-290-2443 / alin2@loyola.edu
 
 
 ### About Me
