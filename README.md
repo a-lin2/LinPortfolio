@@ -5,6 +5,7 @@ This is a portfolio for Alice Lin. <br>
 
 
 ### About Me
+![Profile Image](images/profile_pic.jpeg)
 Hello! I am a psychology student and an aspiring child counselor with a year of proven childcare and ESL Tutoring expertise.  
 
 With skills in communication, teaching, and creative problem solving, I can work with children in various settings and help them achieve their academic goals. I am adept at using positive reinforcement, Total Physical Response (TPR), and Communicative Language Teaching (CLT). 
@@ -30,11 +31,11 @@ My goal for this project was to compartmentalize my expenses into their own sect
 #### Couse Grade Evaluation
 The Course Grade Evaluation is a Python-based project, requiring us to build a program that prints out a student’s average quiz, assessment, and overall course grade. 
 
-![Project Image](images/course_grade_eval_1.png)
-![Project Image](images/course_grade_eval_2.png)
-![Project Image](images/course_grade_eval_3.png)
-![Project Image](images/course_grade_eval_4.png)
-![Project Image](images/course_grade_eval_output.png)
+![Project 2 Image](images/course_grade_eval_1.png)
+![Project 2 Image](images/course_grade_eval_2.png)
+![Project 2 Image](images/course_grade_eval_3.png)
+![Project 2 Image](images/course_grade_eval_4.png)
+![Project 2 Image](images/course_grade_eval_output.png)
 
 The code provides a more convenient way for users to calculate all the grades for the class, while also seeing the breakdown. I learned how to use JDoodle to calculate the average, error-check, type cast, and display a letter grade along with the group average. The project was a bit of a challenge, especially because I was still getting used to programming with Python. Error checking was the most challenging because I had just learned about it and was confused about how to write it on my own. I overcame this challenge by modeling off the example provided in class. The resource that helped me with this project was also revisiting the class recording to help me with the areas I struggled with. I ran the code multiple times with various inputs and everything worked perfectly. If I took the project further, I would include error checking in the inputs of the quiz and assessment to prevent any form of error. The project assessed a variety of skillsets that we learned during the unit on Python, making me more detail-oriented and considerate of all the possible ways errors can be prevented. 
 
