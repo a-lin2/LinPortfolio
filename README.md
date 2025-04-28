@@ -18,6 +18,7 @@ You can find me on [LinkedIn](www.linkedin.com/in/alice-lin-83325033a).
 **B.A. in Psychology**  
 Loyola University Maryland
 
+***
 ### Projects
 
 #### Personal Budget Tracker
