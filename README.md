@@ -1,7 +1,6 @@
 
 # Alice Lin
 ![Profile Banner](images/banner.png)
-This is a portfolio for Alice Lin. <br>
 **Contact Info**: 302-290-2443 / alin2@loyola.edu
 
 
