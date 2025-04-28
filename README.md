@@ -1,8 +1,7 @@
 
-# Alice Lin
 ![Profile Banner](images/banner.png)
+# Alice Lin
 **Contact Info**: 302-290-2443 / alin2@loyola.edu
-
 
 ### About Me
 ![Profile Image](images/profile_pic.jpeg)
@@ -12,8 +11,7 @@ With skills in communication, teaching, and creative problem solving, I can work
 
 My specific skill set, commitment to child and family care, and passion for advocating for children’s mental health make me a valuable asset. I enjoy photography, cooking, and doing yoga in my free time.  
  
-You can find me on [LinkedIn](www.linkedin.com/in/alice-lin-83325033a). 
-
+You can find me on [LinkedIn](https://www.linkedin.com/in/alice-lin-83325033a). 
 ### Education
 **B.A. in Psychology**  
 Loyola University Maryland
