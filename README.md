@@ -12,7 +12,7 @@ With skills in communication, teaching, and creative problem solving, I can work
 
 My specific skill set, commitment to child and family care, and passion for advocating for children’s mental health make me a valuable asset. I enjoy photography, cooking, and doing yoga in my free time.  
  
-You can find me on www.linkedin.com/in/alice-lin-83325033a. 
+You can find me on [LinkedIn](www.linkedin.com/in/alice-lin-83325033a). 
 
 ### Education
 **B.A. in Psychology**  
